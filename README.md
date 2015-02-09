@@ -4,7 +4,6 @@
 	Puis la version du compilateur: ça peut etre par exemple : MSVC11, MSVC10 ou autres.
 	Et enfin la version de l'architecture : X86 ou X64.
 
-'''\n
 
 * La première chose à faire est de télecharger le DLL: php_phalcon.dll.
 * Le lien pour le télécharger est : http://phalconphp.com/fr/download/windows.
@@ -14,7 +13,7 @@
 	les binaries php
 	(C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\binaries\php\php_runningversion\ext) et 
 	(C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\binaries\php\php558x150206173627\ext)	
-'''
+
 
 
 ### Configurer EasyPhp php.ini :
